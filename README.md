@@ -1,2 +1,2 @@
 # leather_craft
-foto repo 
+To calculate 
