@@ -10,4 +10,4 @@ of strands to cut and the length of the strands" (from page 16 of BUSH LEATHERWO
 
 1. Open calc file. define leather square size, define middle cut-out radius part and  lace width. Read calculated length S.
 
-<p align="center"> <img src="https://github.com/2dof/leather_craft/blob/main/calc_excel.png" width="300" height="300" />
+<p align="center"> <img src="https://github.com/2dof/leather_craft/blob/main/calc_excel.png" width="600" height="300" />
